@@ -19,6 +19,11 @@ setup(
         'pandas',
         'matplotlib',
         'mplfinance',
+        'GoogleNews',
+        'textblob',
+        'tweepy',
+        'colorama',
+        'python-dotenv'
     ],
     entry_points={
         'console_scripts': [

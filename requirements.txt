@@ -2,3 +2,8 @@ yfinance
 pandas
 matplotlib
 mplfinance
+GoogleNews
+textblob
+tweepy
+colorama
+python-dotenv
