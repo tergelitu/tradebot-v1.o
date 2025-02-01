@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/financial_rsi_bot.egg-info/PKG-INFO
+src/financial_rsi_bot.egg-info/SOURCES.txt
+src/financial_rsi_bot.egg-info/dependency_links.txt
+src/financial_rsi_bot.egg-info/entry_points.txt
+src/financial_rsi_bot.egg-info/requires.txt
+src/financial_rsi_bot.egg-info/top_level.txt
